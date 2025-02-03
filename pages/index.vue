@@ -11,6 +11,6 @@
 
 <style scoped>
 .header {
-  @apply bg-img-header pt-80;
+  @apply pt-80 bg-img-header bg-cover bg-center bg-no-repeat w-full;
 }
 </style>
